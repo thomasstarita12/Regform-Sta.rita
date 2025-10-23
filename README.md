@@ -3,7 +3,7 @@
 <head>
 <title>STUDENT REGISTRATION FORM</title>
 </head>
-<body bgcolor="orange">
+<body backgroundcolor="orange">
 <form>
 <table text-align="center" width="700" cellpadding="10">
 <tr>
